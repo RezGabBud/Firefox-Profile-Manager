@@ -1,5 +1,5 @@
 # Firefox Profile Manager
-# Copyright (c) 2026 RezGabBud (https://github.com/RezGabBud/)
+# Copyright (c) 2026 Rézbányai Gábor Buda - RezGabBud (https://github.com/RezGabBud/)
 # Licensed under the MIT License – see LICENSE file for details.
 
 import tkinter as tk
