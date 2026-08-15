@@ -184,20 +184,6 @@ Tárolt adatok: egyéni színek, megjelenítési nevek, képútvonalak, rácselr
 
 ---
 
-## Credits / Köszönetnyilvánítás
-
-### Icon / Ikon
-
-The application icon is based on the **Browser Firefox** icon by **royalflushxx**, sourced from IconArchive.
-
-Az alkalmazás ikonja a **Browser Firefox** ikon, amelyet **royalflushxx** készített, és az IconArchive-on érhető el.
-
-- Source / Forrás: [iconarchive.com – Browser Firefox icon by royalflushxx](https://www.iconarchive.com/show/browser-icons-by-royalflushxx/browser-firefox-icon.html)
-
-### Author / Szerző
-
-**RezGabBud** – [github.com/RezGabBud](https://github.com/RezGabBud/)
-
 ### Trademark Notice / Védjegynyilatkozat
 
 Firefox is a trademark of the Mozilla Foundation. This project is not affiliated with or endorsed by Mozilla.
